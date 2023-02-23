@@ -1,1 +1,1 @@
-SiriusV3.exe
+SiriusV3
